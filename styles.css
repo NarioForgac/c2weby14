@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+.tabulka {
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
